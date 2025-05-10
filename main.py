@@ -3,8 +3,8 @@ import pygame
 from constants import *
 
 def main():
+    pygame.init()
     print("Starting Asteroids!")
-    pygame.init():
 
 if __name__ == "__main__":
     main()
